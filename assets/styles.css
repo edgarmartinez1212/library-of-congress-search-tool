@@ -1,0 +1,13 @@
+body {
+    background-color: #0C2C56;
+    font-family: "Fira Sans", "Merriweather";
+}
+
+#search{
+    background-color: #C4CED4;
+}
+
+.container-search {
+    /* background-color: none; */
+    /* width: 75% */
+}
